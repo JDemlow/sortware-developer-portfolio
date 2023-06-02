@@ -10,7 +10,7 @@ const Skills = () => {
             Skills
           </p>
           <p className="py-4">
-            // These are just some of the technologies I've worked with
+            These are just some of the technologies I've worked with
             professionally
           </p>
         </div>
