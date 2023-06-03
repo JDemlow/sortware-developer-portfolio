@@ -1,8 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600;700;800&family=Rubik&display=swap");
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600;700;800&family=Rubik&display=swap");
 
 @layer base {
   body {
@@ -12,6 +12,12 @@
     @apply px-4;
     @apply cursor-pointer;
   }
+}
+
+:root {
+  --primary-bg: #274c77;
+  --accent-bg: #a3cef1;
+  --primary-text: #e7ecef;
 }
 
 .content-div {
