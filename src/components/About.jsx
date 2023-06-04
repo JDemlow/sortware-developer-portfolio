@@ -22,10 +22,17 @@ const About = () => {
           <div>
             <p>
               I'm a creative, detail-oriented, software engineer with a deep
-              interest in problem-solving. Proven track record of creating and
-              implementing successful front-end web experiences.
+              interest in problem-solving. I have a proven track record of
+              creating and implementing successful full stack web experiences.
             </p>
           </div>
+        </div>
+        <div className="flex justify-center items-center">
+          <img
+            className="w-60 mx-auto my-4 py-8 hover:scale-110 duration-500"
+            src="src/assets/restaurant.jpeg"
+            alt="picture of James"
+          />
         </div>
       </div>
     </div>

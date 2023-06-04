@@ -17,8 +17,8 @@ const Home = () => {
           Full Stack Developer
         </h2>
         <p className="text-[#8892b0] py-4 max-w-[700px]">
-          I'm a software engineer with over two years experience building
-          responsive and accessible websites and web applications. Interested in
+          I'm a software engineer with years of experience building responsive
+          and accessible websites and web applications. I'm interested in
           creating clean/well-tested code, using interpersonal abilities, and
           learning new skill sets to become an even better developer.
         </p>
